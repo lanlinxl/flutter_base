@@ -1,0 +1,18 @@
+{
+  "message" : "SUCCESS",
+  "data" : {
+    "has_schedule" : true,
+    "study_schedule" : {
+      "service_id" : 61,
+      "current_course_id" : 158,
+      "finish_count" : 3,
+      "current_phase_index" : 0,
+      "service_name" : "app约课服务",
+      "all_count" : 5,
+      "permission_id" : 886
+    }
+  },
+  "code" : "0000",
+  "service_name" : "wk_biz_",
+  "now_ts" : 1675067232
+}
