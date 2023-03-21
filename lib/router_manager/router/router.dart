@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import '../router_main.dart';
 import '../about.dart';
 import '../detail.dart';
-import '../unknown.dart';
+import 'package:flutterdemo/router_manager/router/unknown.dart';
 
 class LLRouter {
   static final Map<String ,WidgetBuilder> routes = {

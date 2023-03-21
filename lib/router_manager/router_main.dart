@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutterdemo/router_manager/about.dart';
 import 'package:flutterdemo/router_manager/detail.dart';
 import 'package:flutterdemo/router_manager/router/router.dart';
-import 'package:flutterdemo/router_manager/unknown.dart';
+import 'package:flutterdemo/router_manager/router/unknown.dart';
 
 void main() => runApp(MyApp1());
 

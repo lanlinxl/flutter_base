@@ -9,7 +9,7 @@ class LLUnknownPage extends StatelessWidget{
       appBar: AppBar(
         title: const Text("错误页面"),
       ),
-      body: Center(
+      body: const Center(
         child: const Text("错误页面",style: TextStyle(fontSize:20 ,color: Colors.red ),),
       ),
     );
