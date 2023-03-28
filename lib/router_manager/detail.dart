@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class LLDetailPage extends StatelessWidget {
-  static const String routeName = "LLDetailPage";
+  static const String routeName = "/detail";
   final String _meesage;
 
   LLDetailPage(this._meesage);

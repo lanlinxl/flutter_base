@@ -17,7 +17,7 @@ class LLRouter {
     if (settings.name == LLDetailPage.routeName) {
       return MaterialPageRoute(
           builder: (ctx) {
-            return LLDetailPage("/detail");
+            return LLDetailPage("this is msg");
           }
       );
     }
